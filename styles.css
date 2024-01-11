@@ -32,6 +32,8 @@ h1 {
 .sushi-picture {
   display: block;
   margin: 0 auto;
+   max-width: 70%;
+  padding: 30px;
 }
 .title-recipe {
   color: rgb(212, 62, 85);
